@@ -46,6 +46,4 @@ export default App
 /**   <footer>
      <span>Eh some stuff@2020</span>
   </footer>
-
-   <Route path="/fashion/:handle" render={( props ) => <ApparelDetails data={props.product} {...props} />} />
   */
