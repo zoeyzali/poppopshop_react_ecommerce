@@ -5,7 +5,6 @@ import { ConvertPrice } from '../utils/convertPrice'
 
 export const CartItem = ( { cartItem } ) => {
     const { removeItem } = useContext( CartContext )
-    console.log( cartItem.actual_price, "propsDotPrice" )
     return (
         <div key={cartItem.id} className="cart__item">
             <figure>

@@ -10,7 +10,7 @@ export const CartList = () => {
             let convertedValue = Number( parseFloat( value.actual_price ) * 10 )
             let mappedPrice = Number( value.price && value.price.sales.value )
             let newVal = ( { ...value, convertedValue, mappedPrice } )
-            console.log( "newVALUE", newVal )
+            // console.log( "newVALUE", newVal )
 
             if ( newVal.convertedValue && newVal.mappedPrice === isNaN ) {
                 return newVal = newVal.convertedValue

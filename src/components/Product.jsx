@@ -3,7 +3,6 @@ import { CartContext } from '../context/CartContext'
 
 export const Product = ( { product } ) => {
     const { addToCart } = useContext( CartContext )
-    console.log( product )
     return (
         <div key={product.id}
             className="product__item">

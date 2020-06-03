@@ -14,8 +14,8 @@ export const CartProvider = ( props ) => {
         if ( index !== -1 ) {
             const updatedItem = { ...newCart[index] }
             newCart[index] = updatedItem
-            // console.log( newCart[index], "newCart index")
-            alert( `Item ${JSON.stringify( updatedItem.productName ? updatedItem.productName : updatedItem.name )} already in cart` )
+            alert( `Item ${JSON.stringify( updatedItem.productName ?
+                updatedItem.productName : updatedItem.name )} already in cart` )
         } else {
             setCart( [...cart, item] )
             alert( `${JSON.stringify( item.productName ? item.productName : item.name )} added to cart` )

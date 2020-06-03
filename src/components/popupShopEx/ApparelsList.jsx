@@ -23,11 +23,16 @@ export const ApparelsList = () => {
         const productsArr = products.filter( product => product.actual_price )
             .sort( ( p1, p2 ) => Number.parseFloat( p1.actual_price ) - Number.parseFloat( p2.actual_price ) )
             .map( product => {
-                console.log( product.actual_price, "product" )
+                // console.log( product.actual_price, "product" )
                 setFilter( product.actual_price )
                 return product
             } )
         setProducts( [...productsArr] )
+        setActive( prevState => ( {
+            ...prevState,
+            active: !prevState.active
+        } ) )
+
         // console.log( "productsArr", productsArr )
         return productsArr
     }
