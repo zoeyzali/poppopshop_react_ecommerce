@@ -1,0 +1,116 @@
+[ {
+        "id": "1002585",
+        "productName": "Plattan 2 Bluetooth Indigo",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 795,
+                "currency": "SEK",
+                "formatted": "795.00kr"
+            }
+        },
+        "image": "./urban-indigo-2.jpg",
+        "description": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable English.",
+        "inStock": true,
+        "rating": 3.8,
+        "readyToOrder": true
+    },
+    {
+        "id": "1002586",
+        "productName": "Urbanears Plattan ADV Wireless, Orange",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 349,
+                "currency": "SEK",
+                "formatted": "349.00kr"
+            }
+        },
+        "image": "./urban-orange.jpg",
+        "description": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable English.",
+        "inStock": true,
+        "rating": 3.8,
+        "readyToOrder": true
+    },
+    {
+        "id": "1002588",
+        "productName": "Urbanears Plattan gray",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 699,
+                "currency": "SEK",
+                "formatted": "699.00kr"
+            }
+        },
+        "image": "./urban-gray.png",
+        "description": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable English.",
+        "inStock": true,
+        "rating": 3.8,
+        "readyToOrder": true
+    }, {
+        "id": "1002591",
+        "productName": "Purple Hearts Urban",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 399,
+                "currency": "SEK",
+                "formatted": "399.00kr"
+            }
+        },
+        "image": "./urban-lila.png",
+        "description": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable English.",
+        "inStock": true,
+        "rating": 3,
+        "readyToOrder": true
+    }, {
+        "id": "1002587",
+        "productName": "Urbanears Plattan On-Ear Bluetooth, Black",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 895,
+                "currency": "SEK",
+                "formatted": "895.00kr"
+            }
+        },
+        "image": "./urban-dark.png",
+        "description": "Plattan 2 Bluetooth Indigo  combines the iconic Plattan design with 30+ hours of wireless playtime for a truly liberating listening experience.",
+        "inStock": true,
+        "rating": 4.8,
+        "readyToOrder": true
+    }, {
+        "id": "1002589",
+        "productName": "Yellow Mellow Urban",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 599,
+                "currency": "SEK",
+                "formatted": "599.00kr"
+            }
+        },
+        "image": "./urban-yellow.jpg",
+        "description": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable English.",
+        "inStock": false,
+        "rating": 3,
+        "readyToOrder": false
+    }, {
+        "id": "1002590",
+        "productName": "Fire-y Orange Urban ADW",
+        "brand": "Urbanears",
+        "price": {
+            "sales": {
+                "value": 499,
+                "currency": "SEK",
+                "formatted": "499.00kr"
+            }
+        },
+        "image": "urban-orange2.jpg",
+        "description": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'content here, content here', making it look like readable English.",
+        "inStock": true,
+        "rating": 3.8,
+        "readyToOrder": true
+    }
+]

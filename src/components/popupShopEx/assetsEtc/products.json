@@ -1,0 +1,447 @@
+{
+  "products": [ {
+      "id": "9b38879b-7879-4933-99b7-c147776aa163",
+      "handle": "ocean-blue-shirt",
+      "name": "Ocean Blue Shirt",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Ocean blue cotton shirt with a narrow collar and buttons down the front and long sleeves. Comfortable fit and tiled kalidoscope patterns.",
+      "gender": "Guys",
+      "type": "Apparels",
+      "color_slug": "ocean-blue",
+      "color": "Ocean blue",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "39,90",
+      "actual_price": "39,90",
+      "image": "https://burst.shopifycdn.com/photos/young-man-in-bright-fashion_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000018_0_U"
+      } ]
+    },
+    {
+      "id": "bb1239c9-e59b-46ff-a92f-bb43084829a5",
+      "handle": "classic-varsity-top",
+      "name": "Classic Varsity Top",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Womens casual varsity top, This grey and black buttoned top is a sport-inspired piece complete with an embroidered letter. ",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "grey-pink",
+      "color": "Grey & Pink",
+      "on_sale": true,
+      "discount_percentage": "50%",
+      "regular_price": "69,90",
+      "actual_price": "39,90",
+      "image": "https://burst.shopifycdn.com/photos/casual-fashion-woman_925x.jpg",
+      "sizes": [ {
+          "available": true,
+          "size": "S",
+          "sku": "4279_1000018_0_S"
+        },
+        {
+          "available": true,
+          "size": "M",
+          "sku": "4279_1000018_0_M"
+        }
+      ]
+    },
+    {
+      "id": " 19bf994d-822e-42f0-b953-d7ae79c3fa8a ",
+      "handle": "yellow-wool-jumper",
+      "name": "Yellow Wool Jumper",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Knitted jumper in a soft wool blend with low dropped shoulders and wide sleeves and think cuffs. Perfect for keeping warm during Fall.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "mustard-yellow",
+      "color": "Mustard Yellow",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "59,90",
+      "actual_price": "59,90",
+      "image": "https://burst.shopifycdn.com/photos/autumn-photographer-taking-picture_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000019_0_U"
+      } ]
+    },
+    {
+      "id": "03bb151c-a2eb-4af4-b826-81b13f810f58 ",
+      "handle": "floral-white-top",
+      "name": "Floral White Top",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Stylish sleeveless white top with a floral pattern.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "white",
+      "color": "white",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "19,90",
+      "actual_price": "19,90",
+      "image": "https://burst.shopifycdn.com/photos/city-woman-fashion_925x@2x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000020_0_U"
+      } ]
+    },
+    {
+      "id": "29607427-e1ec-4859-b7d4-148a879187e6 ",
+      "handle": "striped-silk-blouse",
+      "name": "Striped Silk Blouse",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Ultra-stylish black and red striped silk blouse with buckle collar and matching button pants.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "multiple-colors",
+      "color": "Mulitple Colors",
+      "on_sale": true,
+      "discount_percentage": "25%",
+      "regular_price": "149,90",
+      "actual_price": "99,90",
+      "image": "https://burst.shopifycdn.com/photos/striped-blouse-fashion_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000021_0_U"
+      } ]
+    },
+    {
+      "id": "d60b41f0-9b99-44e5-b47e-d9bd08648c8e",
+      "handle": "classic-leather-jacket",
+      "name": "Classic Leather Jacket",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Womans zipped leather jacket. Adjustable belt for a comfortable fit, complete with shoulder pads and front zip pocket.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "black",
+      "color": "Black",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "349,90",
+      "actual_price": "349,90",
+      "image": "https://burst.shopifycdn.com/photos/leather-jacket-and-tea_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000022_0_U"
+      } ]
+    },
+    {
+      "id": "77b275cf-e689-4622-b6ce-4ec5c1775940",
+      "handle": "dark-denim-jacket",
+      "name": "Dark Denim Jacket",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Classic dark denim top with chest pockets, long sleeves with buttoned cuffs, and a ripped hem effect.",
+      "gender": "Unisex",
+      "type": "Apparels",
+      "color_slug": "Denim",
+      "color": "Denim",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "99,90",
+      "actual_price": "99,90",
+      "image": "https://burst.shopifycdn.com/photos/young-female-models-denim_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000023_0_U"
+      } ]
+    },
+    {
+      "id": "3c89c082-cf7f-45d0-b1e9-59998cd6367a",
+      "handle": "navy-sport-jacket",
+      "name": "Navy Sports Jacket",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Long-sleeved navy waterproof jacket in thin, polyester fabric with a soft mesh inside. The durable water-repellent finish means you'll be kept comfortable and protected when out in all weathers.",
+      "gender": "Unisex",
+      "type": "Apparels",
+      "color_slug": "navy-blue",
+      "color": "Navy Blue",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "149,90",
+      "actual_price": "149,90",
+      "image": "https://burst.shopifycdn.com/photos/mens-fall-fashion-jacket_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000024_0_U"
+      } ]
+    },
+    {
+      "id": "f853663c-aba2-4487-bd0d-13e23b3a0e35",
+      "handle": "dark-winter-jacket",
+      "name": "Soft Winter Jacket",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Thick black winter jacket, with soft fleece lining. Perfect for those cold weather days.",
+      "type": "Apparels",
+      "gender": "Girls",
+      "color_slug": "black",
+      "color": "Black",
+      "on_sale": true,
+      "discount_percentage": "70%",
+      "regular_price": "249,90",
+      "actual_price": "99,90",
+      "image": "https://burst.shopifycdn.com/photos/smiling-woman-on-snowy-afternoon_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "M",
+        "sku": "4279_1000025_0_M"
+      } ]
+    }, {
+      "id": "1a2d74a3-778f-4e5d-9379-71f6d097a9ba",
+      "handle": "black-leather-bag",
+      "name": "Black Leather Bag",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Black leather bag, with ample space. Can be worn over the shoulder, or remove straps to carry in your hand.",
+      "gender": "Unisex",
+      "type": "Accessories",
+      "color_slug": "black",
+      "color": "Black",
+      "on_sale": true,
+      "discount_percentage": "50%",
+      "regular_price": "49,90",
+      "actual_price": "24,90",
+      "image": "https://burst.shopifycdn.com/photos/black-bag-over-the-shoulder_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "One Size",
+        "sku": "4279_1000026_0_OS"
+      } ]
+    }, {
+      "id": "5b7314f9-e854-4ca4-9993-b3986ff49f49",
+      "handle": "zipped-jacket",
+      "name": "Zipped Jacket",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Dark navy and light blue men's zipped waterproof jacket with an outer zipped chestpocket for easy storeage.",
+      "gender": "Guys",
+      "type": "Apparels",
+      "color_slug": "blue-black",
+      "color": "Blue & Black",
+      "on_sale": true,
+      "discount_percentage": "50%",
+      "regular_price": "149,90",
+      "actual_price": "79,90",
+      "image": "https://burst.shopifycdn.com/photos/menswear-blue-zip-up-jacket_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000027_0_U"
+      } ]
+    },
+    {
+      "id": "9c218599-1123-4ebf-bc31-4cf425eda349",
+      "handle": "silk-summer-top",
+      "name": "Silk Summer Top",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Silk womens top with short sleeves and number pattern.",
+      "type": "Apparels",
+      "color_slug": "light-blue",
+      "color": "Light Blue",
+      "gender": "Girls",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "79,90",
+      "actual_price": "79,90",
+      "image": "https://burst.shopifycdn.com/photos/young-hip-woman-at-carnival_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000028_0_U"
+      } ]
+    },
+    {
+      "id": "bf1ebb02-ffe0-437b-8769-436f736499d6",
+      "handle": "longsleeve-cotton-top",
+      "name": "Long Sleeve Cotton Top",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Black cotton womens top, with long sleeves, no collar and a thick hem.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "black",
+      "color": "Black",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "49,90",
+      "actual_price": "49,90",
+      "image": "https://burst.shopifycdn.com/photos/woman-outside-brownstone_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000029_0_U"
+      } ]
+    },
+    {
+      "id": "d59d61f4-e484-43f6-9dff-06d49eee2eab",
+      "handle": "chequered-red-shirt",
+      "name": "Chequered Red Shirt",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Classic mens plaid flannel shirt with long sleeves, in chequered style, with two chest pockets.",
+      "gender": "Unisex",
+      "type": "Apparels",
+      "color_slug": "red",
+      "color": "Red",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "29,90",
+      "actual_price": "29,90",
+      "image": "https://burst.shopifycdn.com/photos/red-plaid-shirt_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000030_0_U"
+      } ]
+    },
+    {
+      "id": "3f42db9b-105b-455c-aa71-75dd9681f036",
+      "handle": "white-cotton-shirt",
+      "name": "White Cotton Shirt",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Plain white cotton long sleeved shirt with loose collar. Small buttons and front pocket.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "white",
+      "color": "White",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "49,90",
+      "actual_price": "49,90",
+      "image": "https://burst.shopifycdn.com/photos/smiling-woman-poses_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000031_0_U"
+      } ]
+    },
+    {
+      "id": "bdff80aa-b3ca-4945-9ba5-b76511093c3f",
+      "handle": "olive-green-jacket",
+      "name": "Olive Green Jacket",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Loose fitting olive green jacket with buttons and large pockets. Multicoloured pattern on the front of the shoulders.",
+      "gender": "Unisex",
+      "type": "Apparels",
+      "color_slug": "olive-green",
+      "color": "Olive Green",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "129,90",
+      "actual_price": "129,90",
+      "image": "https://burst.shopifycdn.com/photos/urban-fashion_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "U",
+        "sku": "4279_1000032_0_U"
+      } ]
+    },
+    {
+      "id": "d06667d4-77d4-425d-964c-e467f30781e5",
+      "handle": "blue-silk-tuxedo",
+      "name": "Blue Silk Tuxedo",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Blue silk tuxedo with marbled aquatic pattern and dark lining. Sleeves are complete with rounded hem and black buttons.",
+      "gender": "Guys",
+      "type": "Apparels",
+      "color_slug": "blue",
+      "color": "Blue",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "169,90",
+      "actual_price": "169,90",
+      "image": "https://burst.shopifycdn.com/photos/man-adjusts-blue-tuxedo-bowtie_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "M",
+        "sku": "4279_1000033_0_M"
+      } ]
+    },
+    {
+      "id": "2dc10a4c-1979-457a-a60d-03340e9ec321",
+      "handle": "striped-skirt-and-top",
+      "name": "Striped Skirt and Top",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Black cotton top with matching striped skirt.",
+      "gender": "Girls",
+      "type": "Apparels",
+      "color_slug": "striped-black",
+      "color": "Striped & Black",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "149,90",
+      "actual_price": "149,90",
+      "image": "https://burst.shopifycdn.com/photos/woman-in-the-city_925x.jpg",
+      "sizes": [ {
+        "available": true,
+        "size": "S",
+        "sku": "4279_1000034_0_S"
+      }, {
+        "available": true,
+        "size": "M",
+        "sku": "4279_1000034_0_M"
+      } ]
+    },
+    {
+      "id": "9b38879b-7879-4933-99b7-c147776aa169",
+      "handle": "led-high-tops",
+      "name": "LED High Tops",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "Black high top shoes with green LED lights in the sole, tied up with laces and a buckle.",
+      "gender": "Unisex",
+      "type": "Shoes",
+      "color_slug": "black",
+      "color": "Black",
+      "on_sale": true,
+      "discount_percentage": "40%",
+      "regular_price": "79,90",
+      "actual_price": "49,90",
+      "image": "https://burst.shopifycdn.com/photos/putting-on-your-shoes_925x.jpg",
+      "sizes": [ {
+          "available": true,
+          "size": "40",
+          "sku": "4279_1000035_0_40"
+        },
+        {
+          "available": true,
+          "size": "42",
+          "sku": "4279_1000035_0_42"
+        }
+      ]
+    },
+    {
+      "id": "2dc10a4c-1979-457a-a60d-03340e9ec325",
+      "handle": "adidas-continental-80",
+      "name": "Adidas Continental 80",
+      "fashion_style": "Trendy Relaxed",
+      "desc": "adidas Originals Continental 80 are the ultimate retroinspired originals from the 80s.",
+      "gender": "Unisex",
+      "type": "Shoes",
+      "color_slug": "white",
+      "color": "White",
+      "on_sale": false,
+      "discount_percentage": "",
+      "regular_price": "89,90",
+      "actual_price": "89,90",
+      "image": "https://images.pexels.com/photos/1225136/pexels-photo-1225136.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+      "sizes": [ {
+          "available": true,
+          "size": "38",
+          "sku": "4279_1000035_0_38"
+        }, {
+          "available": true,
+          "size": "39",
+          "sku": "4279_1000035_0_39"
+        },
+        {
+          "available": true,
+          "size": "40",
+          "sku": "4279_1000035_0_40"
+        }
+      ]
+    }
+  ]
+}

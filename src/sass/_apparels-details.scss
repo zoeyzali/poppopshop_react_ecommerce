@@ -1,0 +1,134 @@
+.apparels__item__wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: $mainWhite;
+    padding: 1rem;
+
+    .apparels__item__details {
+        width: 100%;
+        margin: 0.5rem auto 1.5rem;
+        background-color: white;
+        color: $mainDark;
+
+        .details__content {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            padding: 1rem 0.5rem;
+
+            figure {
+                margin: 0 auto;
+                max-width: 600px;
+                width: 100%;
+
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+
+            h1 {
+                font-size: 3em;
+                letter-spacing: 5px;
+                line-height: 1.2;
+            }
+
+            hr {
+                width: 50%;
+                margin-top: -10px;
+            }
+
+            .details__text {
+                color: $mainDark;
+                display: flex;
+                justify-content: space-between;
+                align-items: baseline;
+                flex-wrap: wrap;
+                margin: auto;
+
+                p {
+                    width: 50ch;
+                    text-align: left;
+                }
+
+                span {
+                    flex: 1;
+                }
+            }
+
+            .btn__row {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                flex-wrap: wrap;
+                max-width: 600px;
+                width: 100%;
+                margin: 0.8rem auto;
+
+                label {
+                    text-align: left;
+                    margin-inline-end: 0.4rem;
+                }
+
+                select {
+                    padding: 2px;
+                    flex: 1;
+                    margin-inline-end: 0.4rem;
+                }
+
+                .btn.details__btn {
+                    background-color: black;
+                    color: $mainWhite;
+                    padding: 0.4rem 0.6rem;
+                    outline: none;
+                    font-weight: 600;
+                    border: 1px solid white;
+                    flex: 1;
+
+                    &:hover {
+                        transform: scale(1);
+                    }
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .details__text {
+            display: block;
+            max-width: 300px;
+
+            p {
+                width: fit-content;
+            }
+
+            span {
+                text-align: left;
+            }
+        }
+
+        .details__content {
+            display: block;
+
+            .btn__row {
+                // display: block;
+                padding: 0;
+                margin: 0.8rem 0;
+                max-width: 300px;
+
+                label {
+                    text-align: left;
+                }
+
+                select {
+                    padding: 0;
+                }
+
+                .btn.details__btn {
+                    padding: 4px;
+                }
+            }
+        }
+    }
+}

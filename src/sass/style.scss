@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap');
+
+$mainRed: #f32e18;
+$mainYellow: #ffeb00;
+$mainWhite: #f0f0f0;
+$mainDark: #242331;
+
+html {
+    font-size: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 0.9em;
+    margin: 0;
+}
+
+.container {
+    min-height: 100vh;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    background-color: $mainWhite;
+}
+
+.main__wrapper {
+    width: 100%;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+.display__wrapper {
+    color: whitesmoke;
+    background-color: black;
+    padding: 0.8rem;
+    text-align: left;
+
+
+    h1 {
+        font-size: 5em;
+        display: flex;
+        line-height: 6px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 900;
+        letter-spacing: -3px;
+
+        span {
+            color: gold;
+            font-size: 0.55em;
+            margin-inline-end: 0.4rem;
+            line-height: 10px;
+            letter-spacing: -3px;
+            mix-blend-mode: difference;
+        }
+    }
+
+    h1.fashion__display_2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 900;
+    }
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 1.5rem auto 0;
+    padding: 1.2rem 1rem;
+    text-align: center;
+    background-color: ghostwhite;
+    opacity: 0.5;
+}
+
+@import './homepage';
+@import './header';
+@import'./products';
+@import'./cart';
+@import './apparels-list';
+@import './apparels-details';
